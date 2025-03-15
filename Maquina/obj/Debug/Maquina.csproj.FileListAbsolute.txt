@@ -1,7 +1,0 @@
-C:\Users\Maria robles\source\repos\Maquina\Maquina\obj\Debug\Maquina.csproj.AssemblyReference.cache
-C:\Users\Maria robles\source\repos\Maquina\Maquina\obj\Debug\Maquina.csproj.CoreCompileInputs.cache
-C:\Users\Maria robles\source\repos\Maquina\Maquina\bin\Debug\Maquina.exe.config
-C:\Users\Maria robles\source\repos\Maquina\Maquina\bin\Debug\Maquina.exe
-C:\Users\Maria robles\source\repos\Maquina\Maquina\bin\Debug\Maquina.pdb
-C:\Users\Maria robles\source\repos\Maquina\Maquina\obj\Debug\Maquina.exe
-C:\Users\Maria robles\source\repos\Maquina\Maquina\obj\Debug\Maquina.pdb
